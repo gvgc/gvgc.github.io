@@ -1,0 +1,1830 @@
+BEGIN:VCALENDAR
+PRODID:Calendar
+VERSION:2.0
+BEGIN:VEVENT
+UID:0@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240826T130000
+DTEND;VALUE=DATE-TIME:20240826T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240826T080000
+DTEND;VALUE=DATE-TIME:20240826T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240827T140000
+DTEND;VALUE=DATE-TIME:20240827T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240827T090000
+DTEND;VALUE=DATE-TIME:20240827T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240828T130000
+DTEND;VALUE=DATE-TIME:20240828T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240828T080000
+DTEND;VALUE=DATE-TIME:20240828T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240829T140000
+DTEND;VALUE=DATE-TIME:20240829T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240829T090000
+DTEND;VALUE=DATE-TIME:20240829T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240830T140000
+DTEND;VALUE=DATE-TIME:20240830T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240830T130000
+DTEND;VALUE=DATE-TIME:20240830T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:10@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240830T080000
+DTEND;VALUE=DATE-TIME:20240830T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:11@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240830T110000
+DTEND;VALUE=DATE-TIME:20240830T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:12@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240903T140000
+DTEND;VALUE=DATE-TIME:20240903T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:13@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240903T090000
+DTEND;VALUE=DATE-TIME:20240903T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:14@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240904T130000
+DTEND;VALUE=DATE-TIME:20240904T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:15@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240904T080000
+DTEND;VALUE=DATE-TIME:20240904T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:16@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240905T140000
+DTEND;VALUE=DATE-TIME:20240905T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:17@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240905T090000
+DTEND;VALUE=DATE-TIME:20240905T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240906T140000
+DTEND;VALUE=DATE-TIME:20240906T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:19@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240906T130000
+DTEND;VALUE=DATE-TIME:20240906T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240906T080000
+DTEND;VALUE=DATE-TIME:20240906T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:21@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240906T110000
+DTEND;VALUE=DATE-TIME:20240906T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:22@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240909T130000
+DTEND;VALUE=DATE-TIME:20240909T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:23@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240909T080000
+DTEND;VALUE=DATE-TIME:20240909T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:24@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240910T140000
+DTEND;VALUE=DATE-TIME:20240910T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:25@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240910T090000
+DTEND;VALUE=DATE-TIME:20240910T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:26@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240911T130000
+DTEND;VALUE=DATE-TIME:20240911T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:27@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240911T080000
+DTEND;VALUE=DATE-TIME:20240911T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:28@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240912T140000
+DTEND;VALUE=DATE-TIME:20240912T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:29@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240912T090000
+DTEND;VALUE=DATE-TIME:20240912T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:30@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240913T140000
+DTEND;VALUE=DATE-TIME:20240913T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:31@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240913T130000
+DTEND;VALUE=DATE-TIME:20240913T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:32@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240913T080000
+DTEND;VALUE=DATE-TIME:20240913T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:33@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240913T110000
+DTEND;VALUE=DATE-TIME:20240913T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:34@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240916T130000
+DTEND;VALUE=DATE-TIME:20240916T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:35@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240916T080000
+DTEND;VALUE=DATE-TIME:20240916T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:36@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240917T140000
+DTEND;VALUE=DATE-TIME:20240917T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:37@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240917T090000
+DTEND;VALUE=DATE-TIME:20240917T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:38@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240918T130000
+DTEND;VALUE=DATE-TIME:20240918T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:39@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240918T080000
+DTEND;VALUE=DATE-TIME:20240918T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:40@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240919T140000
+DTEND;VALUE=DATE-TIME:20240919T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240919T090000
+DTEND;VALUE=DATE-TIME:20240919T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:42@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240920T140000
+DTEND;VALUE=DATE-TIME:20240920T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:43@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240920T130000
+DTEND;VALUE=DATE-TIME:20240920T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:44@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240920T080000
+DTEND;VALUE=DATE-TIME:20240920T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240920T110000
+DTEND;VALUE=DATE-TIME:20240920T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:46@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240923T130000
+DTEND;VALUE=DATE-TIME:20240923T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:47@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240923T080000
+DTEND;VALUE=DATE-TIME:20240923T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:48@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240924T140000
+DTEND;VALUE=DATE-TIME:20240924T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:49@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240924T090000
+DTEND;VALUE=DATE-TIME:20240924T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:50@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240925T130000
+DTEND;VALUE=DATE-TIME:20240925T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:51@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240925T080000
+DTEND;VALUE=DATE-TIME:20240925T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:52@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240926T140000
+DTEND;VALUE=DATE-TIME:20240926T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:53@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240926T090000
+DTEND;VALUE=DATE-TIME:20240926T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:54@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240927T140000
+DTEND;VALUE=DATE-TIME:20240927T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:55@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240927T130000
+DTEND;VALUE=DATE-TIME:20240927T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:56@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240927T080000
+DTEND;VALUE=DATE-TIME:20240927T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:57@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240927T110000
+DTEND;VALUE=DATE-TIME:20240927T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240930T130000
+DTEND;VALUE=DATE-TIME:20240930T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:59@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20240930T080000
+DTEND;VALUE=DATE-TIME:20240930T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:60@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241001T140000
+DTEND;VALUE=DATE-TIME:20241001T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241001T090000
+DTEND;VALUE=DATE-TIME:20241001T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241002T130000
+DTEND;VALUE=DATE-TIME:20241002T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:63@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241002T080000
+DTEND;VALUE=DATE-TIME:20241002T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:64@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241003T140000
+DTEND;VALUE=DATE-TIME:20241003T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:65@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241003T090000
+DTEND;VALUE=DATE-TIME:20241003T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:66@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241004T140000
+DTEND;VALUE=DATE-TIME:20241004T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:67@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241004T130000
+DTEND;VALUE=DATE-TIME:20241004T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:68@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241004T080000
+DTEND;VALUE=DATE-TIME:20241004T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:69@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241004T110000
+DTEND;VALUE=DATE-TIME:20241004T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241007T130000
+DTEND;VALUE=DATE-TIME:20241007T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:71@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241007T080000
+DTEND;VALUE=DATE-TIME:20241007T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:72@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241008T140000
+DTEND;VALUE=DATE-TIME:20241008T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:73@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241008T090000
+DTEND;VALUE=DATE-TIME:20241008T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:74@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241009T130000
+DTEND;VALUE=DATE-TIME:20241009T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:75@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241009T080000
+DTEND;VALUE=DATE-TIME:20241009T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:76@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241010T140000
+DTEND;VALUE=DATE-TIME:20241010T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:77@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241010T090000
+DTEND;VALUE=DATE-TIME:20241010T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:78@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241011T140000
+DTEND;VALUE=DATE-TIME:20241011T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:79@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241011T130000
+DTEND;VALUE=DATE-TIME:20241011T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:80@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241011T080000
+DTEND;VALUE=DATE-TIME:20241011T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:81@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241011T110000
+DTEND;VALUE=DATE-TIME:20241011T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:82@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241016T130000
+DTEND;VALUE=DATE-TIME:20241016T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:83@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241016T080000
+DTEND;VALUE=DATE-TIME:20241016T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:84@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241017T140000
+DTEND;VALUE=DATE-TIME:20241017T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:85@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241017T090000
+DTEND;VALUE=DATE-TIME:20241017T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241018T140000
+DTEND;VALUE=DATE-TIME:20241018T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:87@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241018T130000
+DTEND;VALUE=DATE-TIME:20241018T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:88@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241018T080000
+DTEND;VALUE=DATE-TIME:20241018T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:89@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241018T110000
+DTEND;VALUE=DATE-TIME:20241018T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:90@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241021T130000
+DTEND;VALUE=DATE-TIME:20241021T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:91@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241021T080000
+DTEND;VALUE=DATE-TIME:20241021T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:92@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241022T140000
+DTEND;VALUE=DATE-TIME:20241022T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241022T090000
+DTEND;VALUE=DATE-TIME:20241022T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:94@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241023T130000
+DTEND;VALUE=DATE-TIME:20241023T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241023T080000
+DTEND;VALUE=DATE-TIME:20241023T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:96@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241024T140000
+DTEND;VALUE=DATE-TIME:20241024T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:97@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241024T090000
+DTEND;VALUE=DATE-TIME:20241024T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:98@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241025T140000
+DTEND;VALUE=DATE-TIME:20241025T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:99@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241025T130000
+DTEND;VALUE=DATE-TIME:20241025T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:100@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241025T080000
+DTEND;VALUE=DATE-TIME:20241025T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:101@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241025T110000
+DTEND;VALUE=DATE-TIME:20241025T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:102@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241028T130000
+DTEND;VALUE=DATE-TIME:20241028T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:103@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241028T080000
+DTEND;VALUE=DATE-TIME:20241028T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:104@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241029T140000
+DTEND;VALUE=DATE-TIME:20241029T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:105@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241029T090000
+DTEND;VALUE=DATE-TIME:20241029T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:106@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241030T130000
+DTEND;VALUE=DATE-TIME:20241030T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:107@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241030T080000
+DTEND;VALUE=DATE-TIME:20241030T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:108@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241031T140000
+DTEND;VALUE=DATE-TIME:20241031T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:109@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241031T090000
+DTEND;VALUE=DATE-TIME:20241031T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:110@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241101T140000
+DTEND;VALUE=DATE-TIME:20241101T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:111@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241101T130000
+DTEND;VALUE=DATE-TIME:20241101T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241101T080000
+DTEND;VALUE=DATE-TIME:20241101T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:113@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241101T110000
+DTEND;VALUE=DATE-TIME:20241101T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:114@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241104T130000
+DTEND;VALUE=DATE-TIME:20241104T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:115@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241104T080000
+DTEND;VALUE=DATE-TIME:20241104T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:116@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241105T140000
+DTEND;VALUE=DATE-TIME:20241105T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:117@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241105T090000
+DTEND;VALUE=DATE-TIME:20241105T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:118@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241106T130000
+DTEND;VALUE=DATE-TIME:20241106T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:119@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241106T080000
+DTEND;VALUE=DATE-TIME:20241106T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:120@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241107T140000
+DTEND;VALUE=DATE-TIME:20241107T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:121@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241107T090000
+DTEND;VALUE=DATE-TIME:20241107T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:122@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241108T140000
+DTEND;VALUE=DATE-TIME:20241108T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:123@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241108T130000
+DTEND;VALUE=DATE-TIME:20241108T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:124@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241108T080000
+DTEND;VALUE=DATE-TIME:20241108T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:125@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241108T110000
+DTEND;VALUE=DATE-TIME:20241108T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:126@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241111T130000
+DTEND;VALUE=DATE-TIME:20241111T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:127@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241111T080000
+DTEND;VALUE=DATE-TIME:20241111T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:128@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241112T140000
+DTEND;VALUE=DATE-TIME:20241112T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:129@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241112T090000
+DTEND;VALUE=DATE-TIME:20241112T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:130@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241113T130000
+DTEND;VALUE=DATE-TIME:20241113T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:131@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241113T080000
+DTEND;VALUE=DATE-TIME:20241113T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:132@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241114T140000
+DTEND;VALUE=DATE-TIME:20241114T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:133@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241114T090000
+DTEND;VALUE=DATE-TIME:20241114T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:134@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241115T140000
+DTEND;VALUE=DATE-TIME:20241115T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:135@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241115T130000
+DTEND;VALUE=DATE-TIME:20241115T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:136@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241115T080000
+DTEND;VALUE=DATE-TIME:20241115T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:137@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241115T110000
+DTEND;VALUE=DATE-TIME:20241115T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:138@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241118T130000
+DTEND;VALUE=DATE-TIME:20241118T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:139@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241118T080000
+DTEND;VALUE=DATE-TIME:20241118T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:140@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241119T140000
+DTEND;VALUE=DATE-TIME:20241119T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:141@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241119T090000
+DTEND;VALUE=DATE-TIME:20241119T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:142@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241120T130000
+DTEND;VALUE=DATE-TIME:20241120T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:143@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241120T080000
+DTEND;VALUE=DATE-TIME:20241120T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:144@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241121T140000
+DTEND;VALUE=DATE-TIME:20241121T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:145@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241121T090000
+DTEND;VALUE=DATE-TIME:20241121T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:146@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241122T140000
+DTEND;VALUE=DATE-TIME:20241122T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:147@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241122T130000
+DTEND;VALUE=DATE-TIME:20241122T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:148@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241122T080000
+DTEND;VALUE=DATE-TIME:20241122T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:149@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241122T110000
+DTEND;VALUE=DATE-TIME:20241122T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:150@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241125T130000
+DTEND;VALUE=DATE-TIME:20241125T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:151@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241125T080000
+DTEND;VALUE=DATE-TIME:20241125T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:152@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241126T140000
+DTEND;VALUE=DATE-TIME:20241126T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:153@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241126T090000
+DTEND;VALUE=DATE-TIME:20241126T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:154@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241202T130000
+DTEND;VALUE=DATE-TIME:20241202T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:155@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241202T080000
+DTEND;VALUE=DATE-TIME:20241202T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:156@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241203T140000
+DTEND;VALUE=DATE-TIME:20241203T155050
+LOCATION:Frank E. Gannett (GAN)-A155
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:157@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241203T090000
+DTEND;VALUE=DATE-TIME:20241203T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:158@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241204T130000
+DTEND;VALUE=DATE-TIME:20241204T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:159@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241204T080000
+DTEND;VALUE=DATE-TIME:20241204T095050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:160@default
+CLASS:PUBLIC
+DESCRIPTION:Filmmaking is presented as a means of interpretation and expression. This course combines technical information in motion picture exposure and editing with a theoretical and practical approach to motion picture continuity through non-synchronous film production and editing. The course also will provide an aesthetic understanding and essential vocabulary of film production, script, and budget planning. In this course, students will have the opportunity to work in groups to visual storytelling and editing techniques to experiment with different styles.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241205T140000
+DTEND;VALUE=DATE-TIME:20241205T165050
+LOCATION:Frank E. Gannett (GAN)-A080
+SUMMARY;LANGUAGE=en-us:Production I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:161@default
+CLASS:PUBLIC
+DESCRIPTION:Freshman Imaging Project I is the first of a two-course sequence. Through the exploration of concepts in physics, mathematics, and computer science, students will experience the creation of a system to address a contemporary technological need through the application of the principles of the scientific method. With the help of faculty and staff from different departments across campus, as well as external experts, students will plan and organize the effort, review current literature applicable to the posed technical challenge, apply hypotheses to address presented scientific questions, conduct experiments to assess technology options, integrate components to create a prototype, and confirm that the prototype and methods meet desired levels of performance. The students will develop a working knowledge of the scientific method and an appreciation for the value of teamwork in technical disciplines, develop the skills required to execute a large project, and increase proficiency in oral and written technical communication.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241205T090000
+DTEND;VALUE=DATE-TIME:20241205T105050
+LOCATION:Carlson Ctr Imaging (CAR)-3125
+SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:162@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241206T140000
+DTEND;VALUE=DATE-TIME:20241206T165050
+LOCATION:Frank E. Gannett (GAN)-1211
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:163@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241206T130000
+DTEND;VALUE=DATE-TIME:20241206T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:164@default
+CLASS:PUBLIC
+DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241206T080000
+DTEND;VALUE=DATE-TIME:20241206T085050
+LOCATION:Thomas Gosnell Hall (GOS)-2365, Wallace Library (WAL)-4480
+SUMMARY;LANGUAGE=en-us:Calculus A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:165@default
+CLASS:PUBLIC
+DESCRIPTION:RIT 365 students participate in experiential learning opportunities designed to launch them into their career at RIT, support them in making multiple and varied connections across the university, and immerse them in processes of competency development. Students will plan for and reflect on their first-year experiences, receive feedback, and develop a personal plan for future action in order to develop foundational self-awareness and recognize broad-based professional competencies.
+DTSTAMP;VALUE=DATE-TIME:20240824T182525
+DTSTART;VALUE=DATE-TIME:20241206T110000
+DTEND;VALUE=DATE-TIME:20241206T115050
+LOCATION:George Eastman Hall (EAS)-1310
+SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
