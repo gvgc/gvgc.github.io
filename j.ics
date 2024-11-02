@@ -1256,17 +1256,6 @@ SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:114@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241104T100000
-DTEND;VALUE=DATE-TIME:20241104T115050
-LOCATION:Thomas Gosnell Hall (GOS)-2365
-SUMMARY;LANGUAGE=en-us:Calculus A
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:115@default
 CLASS:PUBLIC
 DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
@@ -1297,17 +1286,6 @@ DTSTART;VALUE=DATE-TIME:20241105T090000
 DTEND;VALUE=DATE-TIME:20241105T105050
 LOCATION:Carlson Ctr Imaging (CAR)-3125
 SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:118@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241106T100000
-DTEND;VALUE=DATE-TIME:20241106T115050
-LOCATION:Thomas Gosnell Hall (GOS)-2365
-SUMMARY;LANGUAGE=en-us:Calculus A
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1344,17 +1322,6 @@ SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:122@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241108T100000
-DTEND;VALUE=DATE-TIME:20241108T105050
-LOCATION:Wallace Library (WAL)-4480
-SUMMARY;LANGUAGE=en-us:Calculus A
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:123@default
 CLASS:PUBLIC
 DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
@@ -1385,17 +1352,6 @@ DTSTART;VALUE=DATE-TIME:20241108T110000
 DTEND;VALUE=DATE-TIME:20241108T115050
 LOCATION:George Eastman Hall (EAS)-1310
 SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:126@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241111T100000
-DTEND;VALUE=DATE-TIME:20241111T115050
-LOCATION:Thomas Gosnell Hall (GOS)-2365
-SUMMARY;LANGUAGE=en-us:Calculus A
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1432,17 +1388,6 @@ SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:130@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241113T100000
-DTEND;VALUE=DATE-TIME:20241113T115050
-LOCATION:Thomas Gosnell Hall (GOS)-2365
-SUMMARY;LANGUAGE=en-us:Calculus A
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:131@default
 CLASS:PUBLIC
 DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
@@ -1473,17 +1418,6 @@ DTSTART;VALUE=DATE-TIME:20241114T090000
 DTEND;VALUE=DATE-TIME:20241114T105050
 LOCATION:Carlson Ctr Imaging (CAR)-3125
 SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:134@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241115T100000
-DTEND;VALUE=DATE-TIME:20241115T105050
-LOCATION:Wallace Library (WAL)-4480
-SUMMARY;LANGUAGE=en-us:Calculus A
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1520,17 +1454,6 @@ SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:138@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241118T100000
-DTEND;VALUE=DATE-TIME:20241118T115050
-LOCATION:Thomas Gosnell Hall (GOS)-2365
-SUMMARY;LANGUAGE=en-us:Calculus A
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:139@default
 CLASS:PUBLIC
 DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
@@ -1561,17 +1484,6 @@ DTSTART;VALUE=DATE-TIME:20241119T090000
 DTEND;VALUE=DATE-TIME:20241119T105050
 LOCATION:Carlson Ctr Imaging (CAR)-3125
 SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:142@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241120T100000
-DTEND;VALUE=DATE-TIME:20241120T115050
-LOCATION:Thomas Gosnell Hall (GOS)-2365
-SUMMARY;LANGUAGE=en-us:Calculus A
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1608,17 +1520,6 @@ SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:146@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241122T100000
-DTEND;VALUE=DATE-TIME:20241122T105050
-LOCATION:Wallace Library (WAL)-4480
-SUMMARY;LANGUAGE=en-us:Calculus A
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:147@default
 CLASS:PUBLIC
 DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
@@ -1649,17 +1550,6 @@ DTSTART;VALUE=DATE-TIME:20241122T110000
 DTEND;VALUE=DATE-TIME:20241122T115050
 LOCATION:George Eastman Hall (EAS)-1310
 SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:150@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241125T100000
-DTEND;VALUE=DATE-TIME:20241125T115050
-LOCATION:Thomas Gosnell Hall (GOS)-2365
-SUMMARY;LANGUAGE=en-us:Calculus A
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1696,17 +1586,6 @@ SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:154@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241202T100000
-DTEND;VALUE=DATE-TIME:20241202T115050
-LOCATION:Thomas Gosnell Hall (GOS)-2365
-SUMMARY;LANGUAGE=en-us:Calculus A
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:155@default
 CLASS:PUBLIC
 DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
@@ -1740,17 +1619,6 @@ SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:158@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241204T100000
-DTEND;VALUE=DATE-TIME:20241204T115050
-LOCATION:Thomas Gosnell Hall (GOS)-2365
-SUMMARY;LANGUAGE=en-us:Calculus A
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:159@default
 CLASS:PUBLIC
 DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
@@ -1781,17 +1649,6 @@ DTSTART;VALUE=DATE-TIME:20241205T090000
 DTEND;VALUE=DATE-TIME:20241205T105050
 LOCATION:Carlson Ctr Imaging (CAR)-3125
 SUMMARY;LANGUAGE=en-us:Freshman Imaging Project I
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:162@default
-CLASS:PUBLIC
-DESCRIPTION:This is the first course in a three-course sequence (COS-MATH-171, -172, -173). This course includes a study of precalculus, polynomial, rational, exponential, logarithmic and trigonometric functions, continuity, and differentiability. Limits of functions are used to study continuity and differentiability. The study of the derivative includes the definition, basic rules, and implicit differentiation. Applications of the derivative include optimization and related-rates problems.
-DTSTAMP;VALUE=DATE-TIME:20240902T022727
-DTSTART;VALUE=DATE-TIME:20241206T100000
-DTEND;VALUE=DATE-TIME:20241206T105050
-LOCATION:Wallace Library (WAL)-4480
-SUMMARY;LANGUAGE=en-us:Calculus A
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
