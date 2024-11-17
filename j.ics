@@ -1684,4 +1684,15 @@ LOCATION:George Eastman Hall (EAS)-1310
 SUMMARY;LANGUAGE=en-us:RIT 365: RIT Connections
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:167@default
+CLASS:PUBLIC
+DESCRIPTION:This course provides an introductory overview of the basic engineering and scientific principles associated with imaging systems. Topics covered include imaging physics, photographic science, human vision and perception, image capture and display technologies (both analog and digital), and digital image processing. This course is taught using both mathematical and phenomenological presentation and prepares students to proceed with more in-depth investigation of these fields in subsequent imaging science and motion picture science courses. Accompanying laboratory exercises provide hands-on experience with the presented concepts.
+DTSTAMP;VALUE=DATE-TIME:20240902T022727
+DTSTART;VALUE=DATE-TIME:20241209T130000
+DTEND;VALUE=DATE-TIME:20241209T135050
+LOCATION:Frank E. Gannett (GAN)-A145
+SUMMARY;LANGUAGE=en-us:Introduction to Imaging and Video Systems
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
